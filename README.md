@@ -1,4 +1,3 @@
-
 ## DATE:
 ## EXP NO 9: Implementation of Univariate Linear Regression
 ## Aim:
